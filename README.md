@@ -1,6 +1,6 @@
 ![logo](https://github.com/Tejaskolhe9696/Tejas-kolhe-/blob/main/TK.png)
 <h1 align="center">Hi 👋, I'm Tejas Kolhe</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FULL STACK DEVELOPER from India</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
